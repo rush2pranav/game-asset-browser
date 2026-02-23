@@ -1,0 +1,10 @@
+{
+  "name": "hero_config",
+  "version": "1.0",
+  "type": "game_asset",
+  "properties": {
+    "health": 100,
+    "speed": 5.0,
+    "damage": 10
+  }
+}
